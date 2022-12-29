@@ -1,2 +1,3 @@
 # JAVA
-javase
+JAVASE
+java
